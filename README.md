@@ -17,7 +17,6 @@ Enjoy our premium VPN service.
 https://www.faststunnel.info
 
 
-
 Chrome Web Store: https://chrome.google.com/webstore/detail/faststunnel-vpn-unblack-s/bblcccknbdbplgmdjnnikffefhdlobhp
 
 
@@ -28,3 +27,6 @@ Google+: https://plus.google.com/100445677634029656661
 
 
 Twitter: https://twitter.com/FastStunnel
+
+If you like us, please share it with your friends
+Link:https://pan.baidu.com/s/1dENKsl7 Password:4v4t
