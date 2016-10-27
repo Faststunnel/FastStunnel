@@ -14,7 +14,11 @@ No special configuration is required; all you need is a valid FastStunnel accoun
 
 Enjoy our premium VPN service.
 
-https://www.faststunnel.info
+https://www.faststunnel.co
+
+
+Our 2 short URLs : http://fst.bz http://fst.tips
+
 
 
 Chrome Web Store: https://chrome.google.com/webstore/detail/faststunnel-vpn-unblack-s/bblcccknbdbplgmdjnnikffefhdlobhp
