@@ -17,20 +17,17 @@ Enjoy our premium VPN service.
 https://www.faststunnel.co
 
 
-Our 2 short URLs : http://fst.bz http://fst.tips
-
-
 
 Chrome Web Store: https://chrome.google.com/webstore/detail/faststunnel-vpn-unblack-s/bblcccknbdbplgmdjnnikffefhdlobhp
 
-
-Facebook: https://www.facebook.com/FastStunnel-247261955653356/
 
 
 Google+: https://plus.google.com/100445677634029656661
 
 
 Twitter: https://twitter.com/FastStunnel
+
+Our 2 short URLs : http://fst.bz http://fst.tips
 
 If you like us, please share it with your friends
 Link:https://pan.baidu.com/s/1dENKsl7 Password:4v4t
