@@ -19,7 +19,7 @@ If our proxy have any issue, use Proxy SwitchyOmega, Proxy SwitchySharp, FoxyPro
 
 Enjoy our premium VPN service.
 
-https://www.faststunnel.co
+https://www.fasterstunnel.com
 
 
 
@@ -32,7 +32,6 @@ Google+: https://plus.google.com/100445677634029656661
 
 Twitter: https://twitter.com/FastStunnel
 
-Our 2 short URLs : http://fst.bz http://fst.tips
 
 If you like us, please share it with your friends
 Link:https://pan.baidu.com/s/1dENKsl7 Password:4v4t
