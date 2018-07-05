@@ -1,5 +1,5 @@
 # FastStunnel
-astStunnel VPN is the best network security solution. Encrypt your connection, access our secure proxy server and unblock the site easily.
+FastStunnel VPN is the best network security solution. Encrypt your connection, access our secure proxy server and unblock the site easily.
 Faststunnel VPN encrypts all traffic, or automatically selects traffic that needs to be encrypted, and hides your IP address so you can access the Internet anonymously. Our VPN also allows you to change your virtual location. We provide many VPN server addresses for you to choose from, including the us, UK, Germany, Singapore, Japan, Hong Kong and so on.
 The reason you chose us
 
