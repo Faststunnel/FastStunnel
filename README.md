@@ -3,7 +3,7 @@ FastStunnel VPN is the best network security solution. Encrypt your connection, 
 
 Faststunnel VPN encrypts all traffic, or automatically selects traffic that needs to be encrypted, and hides your IP address so you can access the Internet anonymously. Our VPN also allows you to change your virtual location. We provide many VPN server addresses for you to choose from, including the us, UK, Germany, Singapore, Japan, Hong Kong and so on.
 
-~The reason you chose us~
+ The reason you chose us!
 
  ✔Security & Privacy
  FastStunnel’s Chrome VPN extension is more than a proxy. Our VPN encrypts your browser traffic  to prevent third parties from stealing your data and following you online. 
