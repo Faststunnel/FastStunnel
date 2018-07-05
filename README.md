@@ -30,7 +30,7 @@ The reason you chose us
  → https://www.faststunnel.net/
 
  ➥ Twitter: www.twitter.com/FastStunnel
- ➥ Google+: plus.google.com/100445677634029656661
+ ➥ Google+: plus.google.com/+StunnelFast
  ➥ Github: github.com/Faststunnel/FastStunnel
 
 Chrome Web Store: https://chrome.google.com/webstore/detail/faststunnel-vpn-unblack-s/bblcccknbdbplgmdjnnikffefhdlobhp
