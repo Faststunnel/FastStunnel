@@ -29,13 +29,12 @@ Faststunnel VPN encrypts all traffic, or automatically selects traffic that need
  
  ~~ Keep in touch! ~~
  Get our latest VPN updates and news:
- → https://www.faststunnel.net/
+ → https://www.faststunnel.in
 
  ➥ Twitter: www.twitter.com/FastStunnel
- ➥ Google+: plus.google.com/+StunnelFast
  ➥ Github: github.com/Faststunnel/FastStunnel
 
 Chrome Web Store: https://chrome.google.com/webstore/detail/faststunnel-vpn-unblack-s/bblcccknbdbplgmdjnnikffefhdlobhp
+Android: https://play.google.com/store/apps/details?id=com.faststunnel.speed
 
-
-© 2018 Fast Security Tunnel 
+© 2020 Fast Security Tunnel 
