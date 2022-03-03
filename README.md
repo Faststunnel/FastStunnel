@@ -37,4 +37,4 @@ Faststunnel VPN encrypts all traffic, or automatically selects traffic that need
 Chrome Web Store: https://chrome.google.com/webstore/detail/faststunnel-vpn-unblack-s/bblcccknbdbplgmdjnnikffefhdlobhp
 Android: https://play.google.com/store/apps/details?id=com.faststunnel.speed
 
-© 2020 Fast Security Tunnel 
+© 2022 Fast Security Tunnel 
